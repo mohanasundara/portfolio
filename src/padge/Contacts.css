@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+    
+}
+
+.linkk:hover {
+    background-color: red;
+         border-radius: 10px;
+    }
+
+
+    .linkk{
+        text-decoration: none;
+        background-color: rebeccapurple;
+    border-radius: 10%;
+    }
