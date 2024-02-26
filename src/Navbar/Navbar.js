@@ -20,8 +20,12 @@ function Navbar() {
 
       <nav className="navbar  navbar-expand-lg navbar-light text-light bg-success   ">
         <div >
-          <marquee className='text-dark ' scrollamount='5'><a className="navbar-brand text-dark marq" href="#">Full Stack Developer (MERN) / Frontend & Backend Developer / AWS
-</a></marquee>
+          {/* <marquee className='text-dark ' scrollamount='5'><a className="navbar-brand text-dark marq" href="#">Full Stack Developer (MERN) / Frontend & Backend Developer / AWS
+</a></marquee> */}
+
+
+
+
         </div>
 
 
