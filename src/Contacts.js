@@ -1,6 +1,6 @@
 import React from 'react';
  import './Contacts.css'
- import Image from './images/c4.webp'
+ import Image from './padge/images/c4.webp'
  
 
 function Contacts() {

@@ -5,7 +5,7 @@ import {BrowserRouter ,Routes,Route}  from 'react-router-dom'
 import Home from './padge/Home';
 import Technicalskills from './padge/Technicalskills';
 import MyProject from './padge/MyProject';
-import Contacts from './padge/Contacts';
+import Contacts from './Contacts';
  
 function App() { 
   
